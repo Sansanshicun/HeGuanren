@@ -306,7 +306,7 @@ $("#email")
   });
 $("#bilibili")
   .mouseover(function () {
-    $("#link-text").html("-bilibili (゜-゜)つロ 干杯~");
+    $("#link-text").html("-bilibili (。゜  — ゜)つロ 干杯~");
   })
   .mouseout(function () {
     $("#link-text").html("通过这里联系我");
